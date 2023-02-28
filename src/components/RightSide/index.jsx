@@ -1,6 +1,6 @@
-import Badges from "./Badges"
-import Button from "./Button"
-import SummaryHeader from "./SummaryHeader"
+import Badges from "./Badges";
+import Button from "./Button";
+import SummaryHeader from "./SummaryHeader";
 
 const RightSide = () => {
   return (

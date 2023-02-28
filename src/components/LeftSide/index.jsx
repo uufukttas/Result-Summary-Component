@@ -1,7 +1,7 @@
-import Description from "./Description"
-import Result from "./Result"
-import Score from "./Score"
-import ScoreHeader from "./ScoreHeader"
+import Description from "./Description";
+import Result from "./Result";
+import Score from "./Score";
+import ScoreHeader from "./ScoreHeader";
 
 const LeftSide = () => {
   return (
