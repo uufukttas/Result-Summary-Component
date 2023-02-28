@@ -1,4 +1,4 @@
-import LeftSide from "./components/LeftSide";
+import LeftSide from "./components/LeftSide"
 import RightSide from "./components/RightSide";
 
 const App = () => {

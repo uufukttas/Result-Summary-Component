@@ -4,6 +4,6 @@ const ScoreHeader = () => {
             <p> Your Result </p>
         </div>
     )
-}
+};
 
-export default ScoreHeader
+export default ScoreHeader;
